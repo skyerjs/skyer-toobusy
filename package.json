@@ -1,0 +1,24 @@
+{
+  "name": "skyer-toobusy",
+  "version": "0.0.1",
+  "description": "skyer toobusy middleware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skyerjs/skyer-toobusy.git"
+  },
+  "keywords": [
+    "skyer",
+    "toobusy",
+    "middleware"
+  ],
+  "author": "jerrywu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/skyerjs/skyer-toobusy/issues"
+  },
+  "homepage": "https://github.com/skyerjs/skyer-toobusy#readme"
+}
